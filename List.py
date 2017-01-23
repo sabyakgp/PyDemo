@@ -106,6 +106,3 @@ city_india1 = city_india2[:]
 city_india1[0] = 'Bengalore'
 print(city_india1)
 print(city_india2)
-
-
-
